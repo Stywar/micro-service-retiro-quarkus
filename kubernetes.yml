@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: service-retiro
-        image: antony0618/micro-retiro-quarkus
+        image: antony0618/micro-retiro-2
         ports:
         - containerPort: 8080
       imagePullSecrets:
